@@ -1,3 +1,4 @@
+# React native mobile wallet powered by the Opanet Platform.  
 This project is a work in progress and seeks to build a react native mobile wallet which interface with [Opanet Core Wallet, Identity and Access platform](https://opanet.org). Fintechs and Financial Institutions will benefit from the great security features, save time and money by customizing the pre-built mobile wallet to suit the needs of their customers. The project is community-driven and is maintained by a team of volunteers.  
 ### Supporting  
 If you'd like to help support the future of the project, please consider:  
