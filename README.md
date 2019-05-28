@@ -3,10 +3,10 @@ This project is a work in progress and seeks to build a react native mobile wall
 ### Supporting  
 If you'd like to help support the future of the project, please consider:  
 *	Giving developer time on the project. (Message us on [Slack](https://opanetcloud.slack.com/messages/CK3H98WBZ/) for guidance!)  
-*	Giving funds by becoming a sponsor on [Noboah](https://noboah.com/web/app.php/projects/gsxteqyuesppywh)!  
+*	Giving funds by becoming a sponsor on [Noboah](https://noboah.com/web/app.php/projects/t23qb57v47xaf2b)!  
 ### OpanetJS  
 In this project, developers will use the OpanetJS library to implement all functional requirements. OpanetJS encapsulate Opanet Identity & Core Payment features into a simple to use Javascript library for web and mobile developers to create great user experience in accessing digital payments, collection services and granting secure access to user resources across applications.  
-*	[How to use OpanetJS](https://noboah.com/web/app.php/projects/gsxteqyuesppywh)  
+*	[How to use OpanetJS](https://github.com/Opanet/opanetJS)  
 ### Scope 
 * The mobile wallet will have the ability to work in all types of network/handsets, for e.g. GSM, CDMA, USSD, Android, IOS, and Windows.   
 * The mobile wallet will support facilities like Funds Transfer, Airtime recharge, Utility Bill Payments, Card-less ATM withdrawal and many others through Mobile Phones and handheld POS devices.  
